@@ -13,3 +13,11 @@ a:visited {
 a:active {
     color: darkmagenta;
 }
+
+hr {
+    text-align: center width: 100% border: 1px
+}
+
+h1 {
+    color: brown
+}
