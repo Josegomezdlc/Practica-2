@@ -13,8 +13,7 @@ a:link {
     color: darkblue;
 }
 
-a:visited {
-    color: rgb(255, 0, 0);
+a:visited { color:crimson
 }
 
 a:hover {
